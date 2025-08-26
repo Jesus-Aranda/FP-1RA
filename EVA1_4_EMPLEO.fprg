@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="d"/>
+        <attribute name="authors" value="yesic"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:54:14 p. m."/>
+        <attribute name="created" value="eWVzaWM7TEFQVE9QLUc5RkxGMTdHOzIwMjUtMDgtMjY7MDU6NDM6NTkgcC4gbS47MzA1Mg=="/>
+        <attribute name="edited" value="eWVzaWM7TEFQVE9QLUc5RkxGMTdHOzIwMjUtMDgtMjY7MDU6NTQ6MTQgcC4gbS47MTszMTUz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Empleo: &quot;" newline="False"/>
+            <output expression="&quot;Auxiliar Multiple&quot;" newline="True"/>
+            <output expression="&quot;Salario: &quot;" newline="False"/>
+            <output expression="&quot;1450 pesos mexicanos&quot;" newline="True"/>
+            <output expression="&quot;Horas Semana: &quot;" newline="False"/>
+            <output expression="48" newline="True"/>
+            <output expression="&quot;Requiere Ingles: &quot;" newline="False"/>
+            <output expression="false" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="z"/>
+        <attribute name="authors" value="yesic"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:35:00 p. m."/>
+        <attribute name="created" value="eWVzaWM7TEFQVE9QLUc5RkxGMTdHOzIwMjUtMDgtMjY7MDU6Mjg6NDIgcC4gbS47MzA0Nw=="/>
+        <attribute name="edited" value="eWVzaWM7TEFQVE9QLUc5RkxGMTdHOzIwMjUtMDgtMjY7MDU6MzU6MDAgcC4gbS47MTszMTQ3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Nombre del estudiante: &quot;" newline="False"/>
+            <output expression="&quot;Jes&#250;s Humbero Aranda C&#225;rdenas&quot;" newline="True"/>
+            <output expression="&quot;N&#250;mero de control: &quot;" newline="False"/>
+            <output expression="&quot;25550649&quot;" newline="True"/>
+            <output expression="&quot;Edad: &quot;" newline="False"/>
+            <output expression="18" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
