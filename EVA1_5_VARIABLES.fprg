@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="2"/>
+        <attribute name="authors" value="yesic"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 05:49:10 p. m."/>
+        <attribute name="created" value="eWVzaWM7TEFQVE9QLUc5RkxGMTdHOzIwMjUtMDgtMjc7MDU6NDM6NTEgcC4gbS47MzA0NQ=="/>
+        <attribute name="edited" value="eWVzaWM7TEFQVE9QLUc5RkxGMTdHOzIwMjUtMDgtMjc7MDU6NDk6MTAgcC4gbS47MjszMTU1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="name" type="String" array="False" size=""/>
+            <declare name="Age" type="Integer" array="False" size=""/>
+            <assign variable="name" expression="&quot;Jesus Aranda&quot;"/>
+            <assign variable="age" expression="18"/>
+            <output expression="name" newline="True"/>
+            <output expression="age" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
