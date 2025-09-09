@@ -15,10 +15,13 @@ public class EVA1_16_NUMERO_MAYOR {
             System.out.println("El numero uno es mayor que el numero dos");
             System.out.println(number_1 + " > " + number_2);
         }else{
-            System.out.println("El numero dos es mayor que el numero uno");
-            System.out.println(number_2 + " > " + number_1);
+            if(number_1 < number_2){
+                System.out.println("El numero dos es mayor que el numero uno");
+                System.out.println(number_2 + " > " + number_1);  
+            }else{
+                System.out.println("El numero uno es igual que el numero dos");
+                System.out.println(number_2 + " = " + number_1);
+            } 
         }
-        
     }
-    
 }
