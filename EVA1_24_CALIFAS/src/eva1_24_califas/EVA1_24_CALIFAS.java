@@ -6,7 +6,6 @@ public class EVA1_24_CALIFAS {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         byte calif_mex;
-        String calif_eu;
         
         System.out.println("Introduce tu calificación");
         calif_mex = Byte.parseByte(input.nextLine());
